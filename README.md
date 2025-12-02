@@ -1,6 +1,6 @@
 # Tech4wildlife
 
-Welcome to the tech4wildlife book.
+Welcome to the tech4wildlife book!
 
 ## Takeaways
 
