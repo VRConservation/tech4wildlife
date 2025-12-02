@@ -1,8 +1,8 @@
 ---
-title: Forward
+title: Foreword
 subject: Technology for Wildlife Conservation
 subtitle: Looking ahead at future possibilities
-short_title: Forward
+short_title: Foreword
 date: 2025-09-03
 authors:
   - name: Vance Russell
@@ -19,10 +19,10 @@ kernelspec:
 exports:
   - format: pdf
     template: curvenote
-    output: exports/02-forward.pdf
+    output: exports/02-foreword.pdf
     article_type: Report
   - format: docx
-    output: exports/02-forward.docx  
+    output: exports/02-foreword.docx  
 ---
 
-# Forward
+# Foreword
