@@ -2,7 +2,7 @@
 
 Welcome to the tech4wildlife book!
 
-## Takeaways
+## Why this book
 
 
 ## Lessons
