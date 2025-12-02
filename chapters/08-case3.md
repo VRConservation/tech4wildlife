@@ -1,0 +1,28 @@
+---
+title: Case Study 3
+subject: Technology for Wildlife Conservation
+subtitle: Third real-world application example
+short_title: Case Study 3
+date: 2025-09-03
+authors:
+  - name: Vance Russell
+    affiliations:
+      - 3point.xyz
+    email: info@3point.xyz
+license: CC-BY-4.0
+keywords: wildlife conservation, technology, case study, application
+abstract: |
+  This chapter presents the third case study demonstrating yet another real-world application of technology in wildlife conservation. We examine diverse approaches, outcomes achieved, and broader implications for conservation technology deployment.
+kernelspec:
+  name: python3
+  display_name: Python 3
+exports:
+  - format: pdf
+    template: curvenote
+    output: exports/08-case3.pdf
+    article_type: Report
+  - format: docx
+    output: exports/08-case3.docx  
+---
+
+# Case Study 3
