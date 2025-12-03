@@ -3,7 +3,7 @@ title: Case Study 3
 subject: Technology for Wildlife Conservation
 subtitle: Third real-world application example
 short_title: Case Study 3
-date: 2025-09-03
+date: 2025-12-01
 authors:
   - name: Vance Russell
     affiliations:
@@ -26,7 +26,7 @@ exports:
     output: exports/08-case3.pdf
     article_type: Report
   - format: docx
-    output: exports/08-case3.docx  
+    output: exports/08-case3.docx
 ---
 
 # Case Study 3

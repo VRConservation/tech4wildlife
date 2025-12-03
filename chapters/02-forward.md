@@ -3,7 +3,7 @@ title: Foreword
 subject: Technology for Wildlife Conservation
 subtitle: Looking ahead at future possibilities
 short_title: Foreword
-date: 2025-09-03
+date: 2025-12-01
 authors:
   - name: Vance Russell
     affiliations:
@@ -26,7 +26,7 @@ exports:
     output: exports/02-foreword.pdf
     article_type: Report
   - format: docx
-    output: exports/02-foreword.docx  
+    output: exports/02-foreword.docx
 ---
 
 # Foreword

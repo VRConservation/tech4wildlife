@@ -3,7 +3,7 @@ title: To Be Determined
 subject: Technology for Wildlife Conservation
 subtitle: Additional topics and considerations
 short_title: TBD
-date: 2025-09-03
+date: 2025-12-01
 authors:
   - name: Vance Russell
     affiliations:
@@ -26,7 +26,7 @@ exports:
     output: exports/05-tbd.pdf
     article_type: Report
   - format: docx
-    output: exports/05-tbd.docx  
+    output: exports/05-tbd.docx
 ---
 
 # To Be Determined

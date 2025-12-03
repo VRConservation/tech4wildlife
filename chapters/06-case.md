@@ -3,7 +3,7 @@ title: Case Study 1
 subject: Technology for Wildlife Conservation
 subtitle: Real-world application example
 short_title: Case Study 1
-date: 2025-09-03
+date: 2025-12-01
 authors:
   - name: Vance Russell
     affiliations:
@@ -26,7 +26,7 @@ exports:
     output: exports/06-case.pdf
     article_type: Report
   - format: docx
-    output: exports/06-case.docx  
+    output: exports/06-case.docx
 ---
 
 # Case Study 1

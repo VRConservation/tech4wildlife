@@ -3,7 +3,7 @@ title: Basics of Wildlife Technology
 subject: Technology for Wildlife Conservation
 subtitle: Fundamental concepts and tools
 short_title: Basics
-date: 2025-09-03
+date: 2025-12-01
 authors:
   - name: Vance Russell
     affiliations:
@@ -26,7 +26,7 @@ exports:
     output: exports/04-basics.pdf
     article_type: Report
   - format: docx
-    output: exports/04-basics.docx  
+    output: exports/04-basics.docx
 ---
 
 # Basics of Wildlife Technology

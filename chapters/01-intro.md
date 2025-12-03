@@ -3,7 +3,7 @@ title: Introduction
 subject: Technology for Wildlife Conservation
 subtitle: An overview of the field and its importance
 short_title: Introduction
-date: 2025-09-03
+date: 2025-12-01
 authors:
   - name: Vance Russell
     affiliations:
@@ -26,7 +26,7 @@ exports:
     output: exports/01-intro.pdf
     article_type: Report
   - format: docx
-    output: exports/01-intro.docx  
+    output: exports/01-intro.docx
 ---
 
 # Introduction

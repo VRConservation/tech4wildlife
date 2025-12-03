@@ -3,7 +3,7 @@ title: Case Study 2
 subject: Technology for Wildlife Conservation
 subtitle: Additional real-world application example
 short_title: Case Study 2
-date: 2025-09-03
+date: 2025-12-01
 authors:
   - name: Vance Russell
     affiliations:
@@ -26,7 +26,7 @@ exports:
     output: exports/07-case2.pdf
     article_type: Report
   - format: docx
-    output: exports/07-case2.docx  
+    output: exports/07-case2.docx
 ---
 
 # Case Study 2
