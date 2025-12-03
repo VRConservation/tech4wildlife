@@ -9,6 +9,10 @@ authors:
     affiliations:
       - 3point.xyz
     email: info@3point.xyz
+  - name: Christopher Sacco
+    affiliations:
+      - Aegis Conservation
+    email: chris@aegisconservation.com
 license: CC-BY-4.0
 keywords: wildlife conservation, technology, future topics
 abstract: |

@@ -38,9 +38,9 @@ site:
     favicon: images/favicon.ico
     logo: images/logo.png
   nav:
-    - title: Conservation Finance
-      url: https://confinance.info
-    - title: FBA Guide
-      url: https://3point.xyz/fba-myst/
-    - title: Open Geospatial
-      url: https://3point.xyz/geosp
+    # - title: Conservation Finance
+    #   url: https://confinance.info
+    # - title: FBA Guide
+    #   url: https://3point.xyz/fba-myst/
+    # - title: Open Geospatial
+    #   url: https://3point.xyz/geosp
